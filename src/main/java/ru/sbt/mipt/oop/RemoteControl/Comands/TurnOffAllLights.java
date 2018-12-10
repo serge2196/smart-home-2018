@@ -17,6 +17,7 @@ public class TurnOffAllLights implements RemoteCommand {
             if (com instanceof Light){
                 Light light = (Light) com;
                 light.setOn(false);
+                System.out.println("Light " + light.getId() + " was turned off");
             }
         });
 

@@ -17,11 +17,11 @@ public class Room implements Part {
         this.name = name;
     }
 
-    public Room(Collection<Light> lights, Door door, String name) {
-        this.lights = lights;
-        this.doors.add(door);
-        this.name = name;
-    }
+//    public Room(Collection<Light> lights, Door door, String name) {
+//        this.lights = lights;
+//        this.doors.add(door);
+//        this.name = name;
+//    }
 
     public Collection<Light> getLights() {
         return lights;
