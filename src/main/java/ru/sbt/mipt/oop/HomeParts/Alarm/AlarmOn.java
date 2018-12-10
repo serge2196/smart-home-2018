@@ -25,7 +25,8 @@ public class AlarmOn implements AlarmState {
         if(this.password.equals(password)){
             alarm.changeState(new AlarmOff(alarm));
             System.out.println("Alarm is deactivated");
-        }
+        } else
+            alarm.setToAlertAlarm();
     }
 
     @Override
