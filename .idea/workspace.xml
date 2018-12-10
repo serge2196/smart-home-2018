@@ -67,28 +67,29 @@
         <counts>
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.15" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="14" />
+          <entry key="java" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="14" />
+          <entry key="JAVA" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="5" />
-          <entry key="java" value="926" />
+          <entry key="java" value="1076" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="926" />
+          <entry key="JAVA" value="1076" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
@@ -99,23 +100,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/RemoteControl/Comands/TurnOffAllLights.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
+            <state relative-caret-position="272">
               <caret line="19" column="78" selection-start-line="19" selection-start-column="78" selection-end-line="19" selection-end-column="78" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/RemoteControl/Comands/ActivateAlarm.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
-              <folding>
-                <element signature="e#310#311#0" expanded="true" />
-                <element signature="e#367#368#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -131,10 +119,79 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/RemoteControl/SmartHomeRemoteController.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/RemoteControl/Tests/TurnOffAllLightTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            <state relative-caret-position="217">
+              <caret line="38" column="28" lean-forward="true" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/RemoteControl/Tests/CloseHallDoorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-55">
+              <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/RemoteControl/Tests/ActivateAlertAlarmTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/RemoteControl/Tests/TurnOnAllLightTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="38" column="23" lean-forward="true" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/RemoteControl/Tests/TurnOnHallLightTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="523">
+              <caret line="47" column="11" lean-forward="true" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/RemoteControl/Comands/TurnOnAllLights.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="18" column="54" lean-forward="true" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/RemoteControl/Comands/TurnOnHallLight.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="23" column="62" selection-start-line="23" selection-start-column="62" selection-end-line="23" selection-end-column="62" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -145,20 +202,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/RemoteControl/Comands/CloseHallDoor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="26" column="60" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="60" />
+            <state relative-caret-position="170">
+              <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/HomeParts/Door.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -176,8 +224,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/EventProcessors/DoorEventProcessor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/EventProcessors/LightEventProcessor.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/SensorEventType.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/AlarmState.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/HomeParts/Alarm/AlarmState.java" />
@@ -203,8 +249,6 @@
         <option value="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/RemoteControl/Comand/TurnOffAllLight.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/RemoteControl/Comand/TurnOffAllLights.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/RemoteControl/SmartHomeRemoteController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/RemoteControl/Comands/TurnOnAllLights.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/RemoteControl/Comands/TurnOnHallLight.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/RemoteControl/Comands/ActivateAlarm.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/RemoteControl/Comands/ActivateAlertAlarm.java" />
         <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
@@ -227,6 +271,10 @@
         <option value="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/RemoteControl/Tests/TurnOffAllLightTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/RemoteControl/Tests/CloseHallDoorTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/RemoteControl/Comands/CloseHallDoor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/RemoteControl/Tests/TurnOnAllLightTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/RemoteControl/Comands/TurnOnAllLights.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/RemoteControl/Comands/TurnOnHallLight.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/RemoteControl/Tests/TurnOnHallLightTest.java" />
       </list>
     </option>
   </component>
@@ -236,7 +284,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="300" />
     <option name="y" value="40" />
     <option name="width" value="1750" />
@@ -248,6 +296,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -309,17 +358,26 @@
               <item name="RemoteControl" type="462c0819:PsiDirectoryNode" />
               <item name="Comands" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="smart-home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smart-home" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="oop" type="462c0819:PsiDirectoryNode" />
+              <item name="RemoteControl" type="462c0819:PsiDirectoryNode" />
+              <item name="Tests" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544404196334" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544405311416" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -345,39 +403,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Android JUnit.CloseHallDoorTest">
-    <configuration name="ActivateAlarmTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
-      <module name="smart-home" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.sbt.mipt.oop.RemoteControl.Tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ru.sbt.mipt.oop.RemoteControl.Tests" />
-      <option name="MAIN_CLASS_NAME" value="ru.sbt.mipt.oop.RemoteControl.Tests.ActivateAlarmTest" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ActivateAlertAlarmTest.test" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
-      <module name="smart-home" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.sbt.mipt.oop.RemoteControl.Tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ru.sbt.mipt.oop.RemoteControl.Tests" />
-      <option name="MAIN_CLASS_NAME" value="ru.sbt.mipt.oop.RemoteControl.Tests.ActivateAlertAlarmTest" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.TurnOnHallLightTest.test">
     <configuration name="CloseHallDoorTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="smart-home" />
       <extension name="coverage">
@@ -388,23 +414,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="ru.sbt.mipt.oop.RemoteControl.Tests" />
       <option name="MAIN_CLASS_NAME" value="ru.sbt.mipt.oop.RemoteControl.Tests.CloseHallDoorTest" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CloseHallDoorTest.test (1)" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
-      <module name="smart-home" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.sbt.mipt.oop.RemoteControl.Tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ru.sbt.mipt.oop.RemoteControl.Tests" />
-      <option name="MAIN_CLASS_NAME" value="ru.sbt.mipt.oop.RemoteControl.Tests.CloseHallDoorTest" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -427,20 +436,70 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TurnOnAllLightTest.test" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="smart-home" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.sbt.mipt.oop.RemoteControl.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.sbt.mipt.oop.RemoteControl.Tests" />
+      <option name="MAIN_CLASS_NAME" value="ru.sbt.mipt.oop.RemoteControl.Tests.TurnOnAllLightTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TurnOnHallLightTest.test" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="smart-home" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.sbt.mipt.oop.RemoteControl.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.sbt.mipt.oop.RemoteControl.Tests" />
+      <option name="MAIN_CLASS_NAME" value="ru.sbt.mipt.oop.RemoteControl.Tests.TurnOnHallLightTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TurnOnHallLightTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="smart-home" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.sbt.mipt.oop.RemoteControl.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.sbt.mipt.oop.RemoteControl.Tests" />
+      <option name="MAIN_CLASS_NAME" value="ru.sbt.mipt.oop.RemoteControl.Tests.TurnOnHallLightTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Android JUnit.ActivateAlarmTest" />
-      <item itemvalue="Android JUnit.ActivateAlertAlarmTest.test" />
-      <item itemvalue="Android JUnit.CloseHallDoorTest.test (1)" />
       <item itemvalue="Android JUnit.CloseHallDoorTest" />
       <item itemvalue="Android JUnit.TurnOffAllLightTest.test" />
+      <item itemvalue="Android JUnit.TurnOnAllLightTest.test" />
+      <item itemvalue="Android JUnit.TurnOnHallLightTest.test" />
+      <item itemvalue="JUnit.TurnOnHallLightTest.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TurnOnHallLightTest.test" />
+        <item itemvalue="Android JUnit.TurnOnHallLightTest.test" />
+        <item itemvalue="Android JUnit.TurnOnAllLightTest.test" />
         <item itemvalue="Android JUnit.CloseHallDoorTest" />
         <item itemvalue="Android JUnit.TurnOffAllLightTest.test" />
-        <item itemvalue="Android JUnit.CloseHallDoorTest.test (1)" />
-        <item itemvalue="Android JUnit.ActivateAlertAlarmTest.test" />
-        <item itemvalue="Android JUnit.ActivateAlarmTest" />
       </list>
     </recent_temporary>
   </component>
@@ -463,31 +522,11 @@
       <workItem from="1544361411175" duration="598000" />
       <workItem from="1544362455957" duration="23224000" />
       <workItem from="1544396947395" duration="7269000" />
+      <workItem from="1544404525140" duration="779000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TurnOffAllLightTest_test - 2018.12.10 at 03h 49m 21s.xml">
-      <configuration name="TurnOffAllLightTest.test" configurationId="AndroidJUnit" />
-    </history-entry>
-    <history-entry file="TurnOffAllLightTest_test - 2018.12.10 at 03h 49m 31s.xml">
-      <configuration name="TurnOffAllLightTest.test" configurationId="AndroidJUnit" />
-    </history-entry>
-    <history-entry file="TurnOffAllLightTest_test - 2018.12.10 at 03h 51m 33s.xml">
-      <configuration name="TurnOffAllLightTest.test" configurationId="AndroidJUnit" />
-    </history-entry>
-    <history-entry file="TurnOffAllLightTest_test - 2018.12.10 at 03h 51m 50s.xml">
-      <configuration name="TurnOffAllLightTest.test" configurationId="AndroidJUnit" />
-    </history-entry>
-    <history-entry file="CloseHallDoorTest - 2018.12.10 at 03h 52m 13s.xml">
-      <configuration name="CloseHallDoorTest" configurationId="AndroidJUnit" />
-    </history-entry>
-    <history-entry file="CloseHallDoorTest - 2018.12.10 at 03h 53m 22s.xml">
-      <configuration name="CloseHallDoorTest" configurationId="AndroidJUnit" />
-    </history-entry>
-    <history-entry file="CloseHallDoorTest - 2018.12.10 at 03h 56m 24s.xml">
-      <configuration name="CloseHallDoorTest" configurationId="AndroidJUnit" />
-    </history-entry>
     <history-entry file="CloseHallDoorTest - 2018.12.10 at 04h 05m 11s.xml">
       <configuration name="CloseHallDoorTest" configurationId="AndroidJUnit" />
     </history-entry>
@@ -497,14 +536,36 @@
     <history-entry file="CloseHallDoorTest - 2018.12.10 at 04h 09m 34s.xml">
       <configuration name="CloseHallDoorTest" configurationId="AndroidJUnit" />
     </history-entry>
+    <history-entry file="CloseHallDoorTest - 2018.12.10 at 04h 16m 24s.xml">
+      <configuration name="CloseHallDoorTest" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="CloseHallDoorTest - 2018.12.10 at 04h 17m 10s.xml">
+      <configuration name="CloseHallDoorTest" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="CloseHallDoorTest - 2018.12.10 at 04h 18m 56s.xml">
+      <configuration name="CloseHallDoorTest" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="TurnOnAllLightTest_test - 2018.12.10 at 04h 21m 58s.xml">
+      <configuration name="TurnOnAllLightTest.test" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="TurnOnAllLightTest_test - 2018.12.10 at 04h 22m 50s.xml">
+      <configuration name="TurnOnAllLightTest.test" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="TurnOnHallLightTest_test - 2018.12.10 at 04h 25m 08s.xml">
+      <configuration name="TurnOnHallLightTest.test" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="TurnOnHallLightTest_test - 2018.12.10 at 04h 27m 52s.xml">
+      <configuration name="TurnOnHallLightTest.test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70413000" />
+    <option name="totallyTimeSpent" value="71192000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21073826" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21342282" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -515,7 +576,7 @@
       <window_info anchor="bottom" id="Messages" order="1" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Find" order="3" />
-      <window_info anchor="bottom" id="Run" order="4" weight="0.28328612" />
+      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.28328612" />
       <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
@@ -542,20 +603,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="46" column="36" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/Action.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/RandomSensorEventProvider.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -612,29 +659,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/RemoteControl/Comands/TurnOnAllLights.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/EventProcessors/LightEventProcessor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="23" column="11" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="23" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/RemoteControl/Comands/TurnOnHallLight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="30" column="13" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -792,10 +820,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/RemoteControl/Tests/ActivateAlertAlarmTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/RemoteControl/Tests/ActivateAlarmTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
+        <state relative-caret-position="151">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/RemoteControl/SmartHomeRemoteController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/HomeParts/Door.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/RemoteControl/Comands/ActivateAlarm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+          <folding>
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/RemoteControl/Comands/CloseHallDoor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -809,29 +875,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/RemoteControl/SmartHomeRemoteController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/RemoteControl/Comands/TurnOnAllLights.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/RemoteControl/Tests/ActivateAlarmTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="255">
+          <caret line="18" column="54" lean-forward="true" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/RemoteControl/Comands/TurnOffAllLights.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
+        <state relative-caret-position="272">
           <caret line="19" column="78" selection-start-line="19" selection-start-column="78" selection-end-line="19" selection-end-column="78" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -839,27 +892,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/HomeParts/Door.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/RemoteControl/Comands/TurnOnHallLight.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/RemoteControl/Tests/TurnOffAllLightTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        <state relative-caret-position="357">
+          <caret line="23" column="62" selection-start-line="23" selection-start-column="62" selection-end-line="23" selection-end-column="62" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/RemoteControl/Comands/CloseHallDoor.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/RemoteControl/Tests/TurnOnAllLightTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="26" column="60" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="60" />
+        <state relative-caret-position="285">
+          <caret line="38" column="23" lean-forward="true" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/RemoteControl/Tests/TurnOffAllLightTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="38" column="28" lean-forward="true" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -868,21 +924,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/RemoteControl/Tests/CloseHallDoorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="45" column="73" selection-start-line="45" selection-start-column="73" selection-end-line="45" selection-end-column="73" />
+        <state relative-caret-position="-55">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/RemoteControl/Comands/ActivateAlarm.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/RemoteControl/Tests/ActivateAlertAlarmTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+        <state relative-caret-position="342">
+          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
           <folding>
-            <element signature="e#310#311#0" expanded="true" />
-            <element signature="e#367#368#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/RemoteControl/Tests/TurnOnHallLightTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="47" column="11" lean-forward="true" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

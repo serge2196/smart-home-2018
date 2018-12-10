@@ -16,7 +16,7 @@ public class TurnOnAllLights implements RemoteCommand {
         this.smartHome.executeAction(com -> {
             if (com instanceof Light){
                 Light light = (Light) com;
-                light.setOn(true);
+                light.changeLightState(light.getId(), true);
             }
         });
 

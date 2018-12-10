@@ -20,8 +20,11 @@ public class CloseHallDoor implements RemoteCommand {
 
         for(Room room : smartHome.getRooms()){
             if(room.getName().equals("hall")){
-                for (Light light : room.getLights()){
-                    light.changeLightState(light.getId(),false);
+
+                for(Room room1 : smartHome.getRooms()) {
+                    for (Light light : room1.getLights()) {
+                        light.changeLightState(light.getId(), false);
+                    }
                 }
                 for(Door door : room.getDoors()){
                     door.changeDoorState(door.getId(), false);

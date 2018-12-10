@@ -17,19 +17,29 @@ public class TurnOnHallLight implements RemoteCommand {
 
     @Override
     public void execute() {
-        smartHome.executeAction(obj -> {
-            if (obj instanceof Room) {
-                Room room = (Room) obj;
-                if (room.getName().equals("hall")) {
-                    room.executeAction(obj1 -> {
-                        if (obj1 instanceof Light) {
-                            Light light = (Light) obj1;
-                            light.setOn(true);
-                        }
-                    });
+
+        for (Room room : smartHome.getRooms()){
+            if(room.getName().equals("hall")){
+                for(Light light : room.getLights()){
+                    light.changeLightState(light.getId(), true);
                 }
             }
-        });
+        }
+
+
+//        smartHome.executeAction(obj -> {
+//            if (obj instanceof Room) {
+//                Room room = (Room) obj;
+//                if (room.getName().equals("hall")) {
+//                    room.executeAction(obj1 -> {
+//                        if (obj1 instanceof Light) {
+//                            Light light = (Light) obj1;
+//                            light.setOn(true);
+//                        }
+//                    });
+//                }
+//            }
+//        });
 
     }
 }
